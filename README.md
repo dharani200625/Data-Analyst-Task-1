@@ -24,7 +24,7 @@ The objective of this task is to clean and preprocess the Netflix Movies and TV 
 
 ## Files Included
 - `cleaned_netflix_dataset.csv`
-- `Data-Analyst-Task-1.ipynb`
+- `Data_Analyst_Task_1.ipynb`
 - `README.md`
 
 ## Outcome
